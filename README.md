@@ -47,6 +47,6 @@ Para executar a aplicação, realize os passos a seguir:
 
 ## :paintbrush: Layout
 
-🔗 [Link do design](https://www.figma.com/file/D8jlrOHKAFRSnUkrvnfusM/WebCam-Emotions?type=design&node-id=0%3A1&mode=dev)
+🔗 [LINK DO FIGMA](https://www.figma.com/file/D8jlrOHKAFRSnUkrvnfusM/WebCam-Emotions?type=design&node-id=0%3A1&mode=dev)
 
 ---
